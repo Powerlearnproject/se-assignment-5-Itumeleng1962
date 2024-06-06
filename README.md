@@ -39,23 +39,19 @@ Answer the following questions based on your understanding of the installation a
   
 * Initial Configurations and Settings:
 - Theme and Appearance:
-
-1. Go to File > Preferences > Color Theme to choose a theme (e.g., Dark+, Light+).
+- Go to File > Preferences > Color Theme to choose a theme (e.g., Dark+, Light+).
    
 * Font and Editor Settings:
-
-2. Open File > Preferences > Settings.
-Use the search bar to find settings like "font size", "line numbers", "format on save", etc.
+- Open File > Preferences > Settings.
+- Use the search bar to find settings like "font size", "line numbers", "format on save", etc.
 
 * Install Essential Extensions:
-
-3. Go to the Extensions view by clicking the Extensions icon in the Activity Bar.
-Search for and install essential extensions like Prettier - Code formatter, ESLint, and Live Server.
+- Go to the Extensions view by clicking the Extensions icon in the Activity Bar.
+- Search for and install essential extensions like Prettier - Code formatter, ESLint, and Live Server.
 
 * Version Control Integration:
-
-4. Ensure Git is installed and configured.
-Go to File > Preferences > Settings, search for "git" to adjust Git-related settings
+- Ensure Git is installed and configured.
+- Go to File > Preferences > Settings, search for "git" to adjust Git-related settings
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
