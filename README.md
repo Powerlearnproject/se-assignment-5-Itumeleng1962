@@ -37,19 +37,19 @@ Answer the following questions based on your understanding of the installation a
   
 * Answer:
   
-* Initial Configurations and Settings:
+- Initial Configurations and Settings:
 - Theme and Appearance:
 - Go to File > Preferences > Color Theme to choose a theme (e.g., Dark+, Light+).
    
-* Font and Editor Settings:
+- Font and Editor Settings:
 - Open File > Preferences > Settings.
 - Use the search bar to find settings like "font size", "line numbers", "format on save", etc.
 
-* Install Essential Extensions:
+- Install Essential Extensions:
 - Go to the Extensions view by clicking the Extensions icon in the Activity Bar.
 - Search for and install essential extensions like Prettier - Code formatter, ESLint, and Live Server.
 
-* Version Control Integration:
+- Version Control Integration:
 - Ensure Git is installed and configured.
 - Go to File > Preferences > Settings, search for "git" to adjust Git-related settings
 
