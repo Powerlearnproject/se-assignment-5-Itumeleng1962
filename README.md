@@ -36,7 +36,6 @@ Answer the following questions based on your understanding of the installation a
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
   
 * Answer:
-  
 - Initial Configurations and Settings:
 - Theme and Appearance:
 - Go to File > Preferences > Color Theme to choose a theme (e.g., Dark+, Light+).
