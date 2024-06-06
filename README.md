@@ -16,24 +16,46 @@ Answer the following questions based on your understanding of the installation a
 
    - Go to the official website for Visual Studio Code.
    - To get the installer for Windows, click the "Download" button.
-   - 
+     
 * Launch the Installer:
 
    - To begin the installation, find the downloaded file (typically in your Downloads folder) and double-click VSCodeSetup.exe.
-   - 
+     
 * Steps for Installation:
 
    - Click "Next" after accepting the license agreement.
    - Click "Next" after selecting the installation's target folder.
    - Click "Next" after selecting extra activities like making a desktop icon and (strongly advised) adding VS Code to the PATH.
    - Press "Install" to start the installation process.
-   - 
+     
 * Finalization:
 
    - After the installation is finished, click "Finish" and check the box to open Visual Studio Code.
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+  
+* Answer:
+  
+* Initial Configurations and Settings:
+- Theme and Appearance:
+
+1. Go to File > Preferences > Color Theme to choose a theme (e.g., Dark+, Light+).
+   
+* Font and Editor Settings:
+
+2. Open File > Preferences > Settings.
+Use the search bar to find settings like "font size", "line numbers", "format on save", etc.
+
+* Install Essential Extensions:
+
+3. Go to the Extensions view by clicking the Extensions icon in the Activity Bar.
+Search for and install essential extensions like Prettier - Code formatter, ESLint, and Live Server.
+
+* Version Control Integration:
+
+4. Ensure Git is installed and configured.
+Go to File > Preferences > Settings, search for "git" to adjust Git-related settings
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
